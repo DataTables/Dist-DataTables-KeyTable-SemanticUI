@@ -1,0 +1,30 @@
+{
+    "name": "datatables.net-keytable-se",
+    "version": "2.2.0",
+    "description": "KeyTable for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
+    "files": [
+        "css/keyTable.semanticui.css"
+    ],
+    "main": "./js/keyTable.semanticui.js",
+    "keywords": [
+        "spreadsheet",
+        "excel",
+        "keyboard",
+        "DataTables",
+        "jQuery",
+        "table",
+        "Semantic UI"
+    ],
+    "homepage": "https://datatables.net",
+    "bugs": "https://datatables.net/forums",
+    "license": "MIT",
+    "author": {
+        "name": "SpryMedia Ltd",
+        "url": "http://datatables.net"
+    },
+    "dependencies": {
+        "jquery": ">=1.7",
+        "datatables.net-se": ">=1.10.13",
+        "datatables.net-keytable": ">=2.2.0"
+    }
+}
