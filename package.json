@@ -1,6 +1,6 @@
 {
     "name": "datatables.net-keytable-se",
-    "version": "2.3.0",
+    "version": "2.3.1",
     "description": "KeyTable for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
     "files": [
         "css/keyTable.semanticui.css"
@@ -24,7 +24,7 @@
     },
     "dependencies": {
         "jquery": ">=1.7",
-        "datatables.net-se": ">=1.10.13",
-        "datatables.net-keytable": ">=2.2.0"
+        "datatables.net-se": "^1.10.15",
+        "datatables.net-keytable": "2.3.1"
     }
 }
