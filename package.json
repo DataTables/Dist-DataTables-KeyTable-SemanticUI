@@ -3,9 +3,10 @@
     "version": "2.3.2",
     "description": "KeyTable for DataTables with styling for [Semantic UI](http://semantic-ui.com/)",
     "files": [
-        "css/**/*.css"
+        "css/**/*.css",
+        "js/**/*.js"
     ],
-    "main": "./js/keyTable.semanticui.js",
+    "main": "js/keyTable.semanticui.js",
     "keywords": [
         "spreadsheet",
         "excel",
@@ -26,5 +27,6 @@
         "jquery": ">=1.7",
         "datatables.net-se": "^1.10.15",
         "datatables.net-keytable": "2.3.2"
-    }
+    },
+    "style": "css/keyTable.semanticui.css"
 }
