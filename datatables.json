@@ -1,13 +1,15 @@
 {
-    "css": [
-        "css/keyTable.semanticui.css",
-        "css/keyTable.semanticui.min.css"
-    ],
     "js": [
         "js/keyTable.semanticui.js",
         "js/keyTable.semanticui.min.js"
     ],
+    "css": [
+        "css/keyTable.semanticui.css",
+        "css/keyTable.semanticui.min.css"
+    ],
+    "types": [
+        "types/keyTable.semanticUI.d.ts"
+    ],
     "src-repo": "http://github.com/DataTables/KeyTable",
-    "last-sync": "3eeff1e00df248e81f0f6e1463bf5dc69ba08efe",
     "last-tag": "2.6.1"
 }
