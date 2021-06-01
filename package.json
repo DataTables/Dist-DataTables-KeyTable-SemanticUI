@@ -3,6 +3,7 @@
     "description": "KeyTable for DataTables with styling for [SemanticUI](https://semantic-ui.com/)",
     "main": "js/keyTable.semanticui.js",
     "style": "css/keyTable.semanticui.css",
+    "types": "./types/keyTable.semanticUI.d.ts",
     "version": "2.6.1",
     "files": [
         "css/**/*.css",
