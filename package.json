@@ -4,19 +4,19 @@
     "main": "js/keyTable.semanticui.js",
     "style": "css/keyTable.semanticui.css",
     "types": "./types/keyTable.semanticUI.d.ts",
-    "version": "2.6.1",
+    "version": "2.6.2",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
     ],
     "keywords": [
         "KeyTable",
- "Excel",
- "keyboard",
- "Spreadsheet",
+        "Excel",
+        "keyboard",
+        "Spreadsheet",
         "Semantic",
- "SemanticUI",
- "Semantic UI",
+        "SemanticUI",
+        "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
@@ -24,9 +24,9 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-keytable": ">=2.6.1",
-        "datatables.net-se": ">=1.10.24",
-        "jquery": ">=1.7"
+        "jquery": ">=1.7",
+        "datatables.net-se": "^1.10.15",
+        "datatables.net-keytable": "2.6.2"
     },
     "moduleType": [
         "globals",
