@@ -4,7 +4,7 @@
     "main": "js/keyTable.semanticui.js",
     "style": "css/keyTable.semanticui.css",
     "types": "./types/keyTable.semanticUI.d.ts",
-    "version": "2.6.3",
+    "version": "2.6.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js"
