@@ -4,7 +4,7 @@
     "main": "js/keyTable.semanticui.js",
     "style": "css/keyTable.semanticui.css",
     "types": "./types/keyTable.semanticUI.d.ts",
-    "version": "2.6.3",
+    "version": "2.6.4",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
@@ -25,8 +25,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-keytable": ">=2.6.3",
-        "datatables.net-se": ">=1.10.25",
+        "datatables.net-keytable": ">=2.6.4",
+        "datatables.net-se": ">=1.11.3",
         "jquery": ">=1.7"
     },
     "moduleType": [
