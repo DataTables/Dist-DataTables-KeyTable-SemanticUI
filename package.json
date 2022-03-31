@@ -12,12 +12,12 @@
     ],
     "keywords": [
         "KeyTable",
-        "Excel",
-        "keyboard",
-        "Spreadsheet",
+ "Excel",
+ "keyboard",
+ "Spreadsheet",
         "Semantic",
-        "SemanticUI",
-        "Semantic UI",
+ "SemanticUI",
+ "Semantic UI",
         "Datatables",
         "jQuery",
         "table",
@@ -26,7 +26,7 @@
     ],
     "dependencies": {
         "datatables.net-keytable": ">=2.6.4",
-        "datatables.net-se": ">=1.11.3",
+        "datatables.net-se": ">=1.11.5",
         "jquery": ">=1.7"
     },
     "moduleType": [
