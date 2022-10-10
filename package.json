@@ -2,12 +2,14 @@
     "name": "datatables.net-keytable-se",
     "description": "KeyTable for DataTables with styling for [SemanticUI](https://semantic-ui.com/)",
     "main": "js/keyTable.semanticui.js",
+    "module": "js/keyTable.semanticui.mjs",
     "style": "css/keyTable.semanticui.css",
     "types": "./types/keyTable.semanticUI.d.ts",
     "version": "2.7.0",
     "files": [
         "css/**/*.css",
         "js/**/*.js",
+        "js/**/*.mjs",
         "types/**/*.d.ts"
     ],
     "keywords": [

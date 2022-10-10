@@ -1,0 +1,1 @@
+import $ from"jquery";import DataTable from"datatables.net-se";import DataTable from"datatables.net-keytable";export default DataTable;
