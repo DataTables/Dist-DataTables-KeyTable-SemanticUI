@@ -4,7 +4,7 @@
 
 import $ from 'jquery';
 import DataTable from 'datatables.net-se';
-import 'datatables.net-keytable';
+import KeyTable from 'datatables.net-keytable';
 
 
 
