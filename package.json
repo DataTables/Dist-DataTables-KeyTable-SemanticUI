@@ -5,7 +5,7 @@
     "module": "./js/keyTable.semanticui.mjs",
     "style": "./css/keyTable.semanticui.css",
     "types": "./types/keyTable.semanticui.d.ts",
-    "version": "3.0.0",
+    "version": "3.1.0",
     "files": [
         "js",
         "css",
@@ -25,8 +25,8 @@
         "sort"
     ],
     "dependencies": {
-        "datatables.net-keytable": "3.0.0",
-        "datatables.net-se": "^3"
+        "datatables.net-keytable": "3.1.0",
+        "datatables.net-se": "^3.1"
     },
     "author": {
         "name": "SpryMedia Ltd",
