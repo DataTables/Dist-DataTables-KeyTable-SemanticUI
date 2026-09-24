@@ -42,9 +42,10 @@
     "exports": {
         ".": {
             "types": "./types/keyTable.semanticui.d.ts",
+            "style": "./css/keyTable.semanticui.css",
             "import": "./js/keyTable.semanticui.mjs",
-            "default": "./js/keyTable.semanticui.mjs",
-            "require": "./js/keyTable.semanticui.js"
+            "require": "./js/keyTable.semanticui.js",
+            "default": "./js/keyTable.semanticui.mjs"
         },
         "./js/*": "./js/*",
         "./css": {
